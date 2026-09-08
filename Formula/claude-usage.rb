@@ -13,8 +13,8 @@
 class ClaudeUsage < Formula
   desc "Local usage, limit and cost dashboard for Claude Code"
   homepage "https://github.com/gipsic/claude-usage"
-  url "https://github.com/gipsic/claude-usage/archive/refs/tags/v1.5.8.tar.gz"
-  sha256 "4d5246b33c46e2aaec7b5155889ff3a23a0fe8edef2f0a93261f9c237a0d593f"
+  url "https://github.com/gipsic/claude-usage/archive/refs/tags/v1.5.9.tar.gz"
+  sha256 "3c091185c91e7435160943a4d7339c0e618134593de14e0c9ee957bdb28c1c32"
   license "MIT"
 
   depends_on "node"
